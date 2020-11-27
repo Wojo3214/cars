@@ -156,15 +156,14 @@ box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.24);
 
     .images{
         flex-direction: row;
+        flex-wrap: wrap;
         flex: 3;
         width: 100%;
-        height: auto;
     }
     
     .images img{
         flex-grow: 1;
         width: 33%;
-        height: auto;
     }
 
     .details-info{
