@@ -4,11 +4,14 @@ let _cars = [];
 
 //Getting data from JSON file
 async function loadData(){
-    let jsonData = await fetch ('https://duckwise.net/assignments/frontend-internship/cars.json',{
-        mode: "no-cors"
+    let data = await fetch ('http://duckwise.net/assignments/frontend-internship/cars.json', {
+        mode: "no-cors",
+        headers: {
+          'Access-Control-Allow-Origin': '*',
+        }
     }).then(res => res.json()).catch(error => console.log(error));
-    console.log(jsonData);
-    _cars = jsonData.data;
+    console.log(data);
+    _cars = data.data;
 
     appendCars(_cars);
 }
