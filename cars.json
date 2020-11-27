@@ -1,0 +1,3042 @@
+{
+    "code": 200,
+    "data": [
+    {
+    "ID": 6937,
+    "API_id": "0a233a65-79fe-483b-896c-0ecd12d0fa94",
+    "title": "Model S Plaid",
+    "initials": {
+    "brand": "Tesla",
+    "variant": "Plaid",
+    "price": "1054990",
+    "release_date": "2021-12-05T00:00:00",
+    "segment": "F"
+    },
+    "description": "",
+    "main": {
+    "Rækkevide": {
+    "data": "840",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": null,
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "2.1",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": null,
+    "after": " kg"
+    }
+    },
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "320 Km / t"
+    }
+    },
+    {
+    "ID": 6880,
+    "API_id": "d5b094b6-73b8-4609-b408-4a704d1b8c36",
+    "title": "Mii electric",
+    "initials": {
+    "brand": "Seat",
+    "variant": null,
+    "price": "169990",
+    "release_date": "2021-06-01T00:00:00",
+    "segment": "B"
+    },
+    "description": "Den nye Seat Mii electric er en god start for dig, der vælger at gøre tingene anderledes samtidigt med at have det sjovt for hvert skridt på vejen.",
+    "main": {
+    "Rækkevide": {
+    "data": "258",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "36.8",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "12.3",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1160",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.seat.dk/globalassets/modeller/mii-electric/stage-1.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "130 Km / t",
+    "Opladning": "Type 2 (7.2kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (40kWh)"
+    }
+    },
+    {
+    "ID": 6885,
+    "API_id": "bbb5e616-9823-416a-81a9-7b2dbfaef3c0",
+    "title": "XC40 Recharge",
+    "initials": {
+    "brand": "Volvo",
+    "variant": null,
+    "price": "0",
+    "release_date": "2021-06-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Vi har designet elbilen XC40 Recharge for at give dig den bedste oplevelse på vejen og for at værne om din fremtid. Salgsstart af XC40 Recharge forventes lanceres i foråret 2021.",
+    "main": {
+    "Rækkevide": {
+    "data": "400",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "78",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "4.9",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": null,
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://assets.volvocars.com/dk/~/media/shared-assets/master/images/pages/my20/xc40-recharge/promotional-area/xc40-recharge_revealed.png?w=260"
+    ],
+    "extra": {
+    "Træk på krog": "1500 kg"
+    }
+    },
+    {
+    "ID": 6889,
+    "API_id": "b2b73e98-f7dc-4fc7-a633-7396375039b0",
+    "title": "Ariya 63 E-4ORCE KWH",
+    "initials": {
+    "brand": "Nissan",
+    "variant": "63 E-4ORCE KWH",
+    "price": "0",
+    "release_date": "2021-04-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Nissan Ariya har en lang rækkevidde, lynladning, topklasseudstyr, stor påhængsvægt og et enormt modelprogram. Nissan Ariya flytter grænserne med flere egenskaber, mere selvstændighed og mere stil. Dens design, som mest af alt kan beskrives futuristisk, får alle på gaden til at vende sig efter den af ren begejstring",
+    "main": {
+    "Rækkevide": {
+    "data": "340",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "65",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "5.9",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1900",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://wieck-nissanao-production.s3.amazonaws.com/photos/f9ab60c773b9d7a64727d4aba904e42d86b6456a/preview-928x522.jpg",
+    "https://wieck-nissanao-production.s3.amazonaws.com/photos/3b17c94c4a8d61a61f5e1a2d85cb999cb542def8/preview-928x522.jpg",
+    "https://wieck-nissanao-production.s3.amazonaws.com/photos/ddea3a0f8c88ec1636caab9d08cd7d69b4d4fbba/preview-928x522.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "700 kg",
+    "Maksimum hastighed": "160 Km / t",
+    "Opladning": "Type 2 (7.4kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (130kWh)"
+    }
+    },
+    {
+    "ID": 6886,
+    "API_id": "b7e00cae-516e-49be-92b9-c49caeb67ee2",
+    "title": "Ariya 87 E-4ORCE KWH",
+    "initials": {
+    "brand": "Nissan",
+    "variant": "87 E-4ORCE KWH",
+    "price": "0",
+    "release_date": "2020-11-05T00:00:00",
+    "segment": "J"
+    },
+    "description": "Nissan Ariya har en lang rækkevidde, lynladning, topklasseudstyr, stor påhængsvægt og et enormt modelprogram. Nissan Ariya flytter grænserne med flere egenskaber, mere selvstændighed og mere stil. Dens design, som mest af alt kan beskrives futuristisk, får alle på gaden til at vende sig efter den af ren begejstring",
+    "main": {
+    "Rækkevide": {
+    "data": "460",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "90",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "5.7",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2200",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://wieck-nissanao-production.s3.amazonaws.com/photos/f9ab60c773b9d7a64727d4aba904e42d86b6456a/preview-928x522.jpg",
+    "https://wieck-nissanao-production.s3.amazonaws.com/photos/3b17c94c4a8d61a61f5e1a2d85cb999cb542def8/preview-928x522.jpg",
+    "https://wieck-nissanao-production.s3.amazonaws.com/photos/ddea3a0f8c88ec1636caab9d08cd7d69b4d4fbba/preview-928x522.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "700 kg",
+    "Maksimum hastighed": "200 Km / t",
+    "Opladning": "Type 2 (22kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (130kWh)"
+    }
+    },
+    {
+    "ID": 6912,
+    "API_id": "57fb224d-57a6-40b3-910a-d5d63e15fa13",
+    "title": "Model S Long Range Plus",
+    "initials": {
+    "brand": "Tesla",
+    "variant": "Long Range Plus",
+    "price": "620990",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "F"
+    },
+    "description": "Model S er toneangivende inden for branchen med hensyn til ydeevne og sikkerhed. Teslas 100 % elektriske drivlinje leverer uforlignelig ydeevne under alle vejrbetingelser — med dobbeltmotor og firehjulstræk, adaptiv luftaffjedring og Ludicrous-acceleration.",
+    "main": {
+    "Rækkevide": {
+    "data": "652",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "100.0",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 240.000 km (70%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "3.8",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2108",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.tesla.com/sites/default/files/images/presskit/model-s-001.jpg?2017"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "250 Km / t",
+    "Opladning": "Type 2 (16kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (220kWh)"
+    }
+    },
+    {
+    "ID": 6913,
+    "API_id": "556318c8-053f-41ed-bbde-5b782d39b5c1",
+    "title": "Leaf e+ Tekna",
+    "initials": {
+    "brand": "Nissan",
+    "variant": "e+ Tekna",
+    "price": "361500",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "C"
+    },
+    "description": "Nissan LEAF er udstyret med de bedste intelligente køreteknologier, som e-pedal og ProPILOT. Nissan LEAF giver dig energi med spændingen ved dynamisk kørsel. Lave driftsomkostninger og nul udledning betyder, at elbilen Nissan LEAF er fornuftig både for din pengepung og planeten.",
+    "main": {
+    "Rækkevide": {
+    "data": "385",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "62",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160 000 km (9 bar ud af 12)"
+    },
+    "0 - 100 Km/t": {
+    "data": "6.9",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2140",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/new_leaf/ZE1A/fleet/leaf-fleet-rear-view.jpg.ximg.l_6_m.smart.jpg",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/2019_LEAF_Full_PES/Overview/RHD/2019-nissan-leaf-19tdieurhdpace106.jpg.ximg.l_6_m.smart.jpg",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nne/vehicles/new-leaf/879310a-F77-19TDIEULHD_LEAF_C&A_002_V0.jpg.ximg.l_6_m.smart.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "157 Km / t",
+    "Opladning": "Type 2 (6.6kWh)",
+    "Opladning (hurtig)": "Chademo (100kWh)"
+    }
+    },
+    {
+    "ID": 6914,
+    "API_id": "54297150-7c38-4aa1-89cb-332b48882a22",
+    "title": "Ariya 87 E-4ORCE KWH Performance",
+    "initials": {
+    "brand": "Nissan",
+    "variant": "87 E-4ORCE KWH Performance",
+    "price": "0",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Nissan Ariya har en lang rækkevidde, lynladning, topklasseudstyr, stor påhængsvægt og et enormt modelprogram. Nissan Ariya flytter grænserne med flere egenskaber, mere selvstændighed og mere stil. Dens design, som mest af alt kan beskrives futuristisk, får alle på gaden til at vende sig efter den af ren begejstring",
+    "main": {
+    "Rækkevide": {
+    "data": "400",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "90",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "5.1",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2200",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://wieck-nissanao-production.s3.amazonaws.com/photos/f9ab60c773b9d7a64727d4aba904e42d86b6456a/preview-928x522.jpg",
+    "https://wieck-nissanao-production.s3.amazonaws.com/photos/3b17c94c4a8d61a61f5e1a2d85cb999cb542def8/preview-928x522.jpg",
+    "https://wieck-nissanao-production.s3.amazonaws.com/photos/ddea3a0f8c88ec1636caab9d08cd7d69b4d4fbba/preview-928x522.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "700 kg",
+    "Maksimum hastighed": "200 Km / t",
+    "Opladning": "Type 2 (22kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (130kWh)"
+    }
+    },
+    {
+    "ID": 6915,
+    "API_id": "51ac620c-3003-4eab-a883-eda1b07969b3",
+    "title": "EQC 400 4MATIC",
+    "initials": {
+    "brand": "Mercedes Benz",
+    "variant": "400 4MATIC",
+    "price": "689597",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Med Mercedes EQC får du alt det, der forventes af en elbil i dag. Og meget mere end det. Der er en forbløffende rækkevidde, du kan oplade bilen et hav af steder, og sikkerheden er selvfølgelig helt i top. Du kan køre mellem 374-417 km udelukkende på strøm, og opladningstiden er 40 minutter på hurtigladestationer.",
+    "main": {
+    "Rækkevide": {
+    "data": "374",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "100",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "5.1",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2495",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.mercedes-benz.dk/passengercars/mercedes-benz-cars/models/eqc/explore/safety-teaser/_jcr_content/mediabox/elements/mediaboxelement/asset.MQ6.0.20190430121419.jpeg",
+    "https://www.mercedes-benz.dk/passengercars/mercedes-benz-cars/models/eqc/explore/environment-teaser/_jcr_content/par/productinfotextimage/media2/slides/videoimageslide_b412/image.MQ6.7.20200707125518.jpeg",
+    "https://www.mercedes-benz.dk/passengercars/mercedes-benz-cars/models/eqc/explore/environment-teaser/sustainable-eqc-details/_jcr_content/par/productinfotextimage_645647115/media2/slides/videoimageslide/image.MQ6.12.20200707125519.jpeg"
+    ],
+    "extra": {
+    "Træk på krog": "1800 kg",
+    "Maksimum hastighed": "180 Km / t",
+    "Opladning": "Type 2 (7.4kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (110kWh)"
+    }
+    },
+    {
+    "ID": 6916,
+    "API_id": "41526128-31d4-4b24-8eb8-7ed2f94b4446",
+    "title": "Ariya 63 KWH",
+    "initials": {
+    "brand": "Nissan",
+    "variant": "63 KWH",
+    "price": "0",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Nissan Ariya har en lang rækkevidde, lynladning, topklasseudstyr, stor påhængsvægt og et enormt modelprogram. Nissan Ariya flytter grænserne med flere egenskaber, mere selvstændighed og mere stil. Dens design, som mest af alt kan beskrives futuristisk, får alle på gaden til at vende sig efter den af ren begejstring",
+    "main": {
+    "Rækkevide": {
+    "data": "360",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "65",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "7.5",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1900",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://wieck-nissanao-production.s3.amazonaws.com/photos/f9ab60c773b9d7a64727d4aba904e42d86b6456a/preview-928x522.jpg",
+    "https://wieck-nissanao-production.s3.amazonaws.com/photos/3b17c94c4a8d61a61f5e1a2d85cb999cb542def8/preview-928x522.jpg",
+    "https://wieck-nissanao-production.s3.amazonaws.com/photos/ddea3a0f8c88ec1636caab9d08cd7d69b4d4fbba/preview-928x522.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "700 kg",
+    "Maksimum hastighed": "160 Km / t",
+    "Opladning": "Type 2 (7.4kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (130kWh)"
+    }
+    },
+    {
+    "ID": 6917,
+    "API_id": "396361fb-9b0e-4032-ad49-92e05d5f7935",
+    "title": "ID.3 Van",
+    "initials": {
+    "brand": "Volkswagen",
+    "variant": "Van",
+    "price": "334948",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": null
+    },
+    "description": "",
+    "main": {
+    "Rækkevide": {
+    "data": null,
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": null,
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": null,
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": null,
+    "after": " kg"
+    }
+    },
+    "extra": []
+    },
+    {
+    "ID": 6918,
+    "API_id": "3951ae91-3d54-412e-9140-a7769af8561a",
+    "title": "EQ fortwo Cabrio",
+    "initials": {
+    "brand": "Smart",
+    "variant": "Cabrio",
+    "price": "225000",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "A"
+    },
+    "description": "Smart EQ fortwo er den sjoveste elbil. Man bliver glad af at kigge på Smart EQ fortwo og glad for at køre i den.",
+    "main": {
+    "Rækkevide": {
+    "data": "157",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "18",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "11.8",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1115",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://mercedesbenzcph.dk/smart/files/2019/09/Smart-fourtwo-cabrio-WEB.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "130 Km / t",
+    "Opladning": "Type 2 (4.6kWh)"
+    }
+    },
+    {
+    "ID": 6919,
+    "API_id": "372c1ac3-e450-48c5-9d6c-b0cba3dc7cf4",
+    "title": "e-tron 50 quattro",
+    "initials": {
+    "brand": "Audi",
+    "variant": "50 quattro",
+    "price": "599990",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Personligt frirum og elektrisk mobilitet er ikke modsætninger med den fuldelektriske SUV fra Audi. Uanset om du kører i byen eller er på landet, er Audi e-tron din trofaste ledsager. Den første fuldelektriske SUV er ikke bare sportslig, men også anvendelig i hverdagen. Dens to elmotorer sørger i samspil med det elektriske firehjulstræk for imponerende præstationer og adrætte køreegenskaber.",
+    "main": {
+    "Rækkevide": {
+    "data": "335",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "71",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "6.8",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2425",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.audi.dk/content/dam/nemo/models/e-tron/audi-e-tron/my-2019/1920x1080_gallery/1920_1080_A_E-TRON_181007.jpg?output-format=webp&downsize=1459px:*",
+    "https://www.audi.dk/content/dam/nemo/models/e-tron/audi-e-tron/my-2019/1920x1080_gallery/1920_1080_A_E-TRON_181014.jpg?output-format=webp&downsize=1459px:*",
+    "https://www.audi.dk/content/dam/nemo/models/e-tron/audi-e-tron/my-2019/1920x1080_gallery/1920_1080_A_E-TRON_181039.jpg?output-format=webp&downsize=1459px:*",
+    "https://www.audi.dk/content/dam/nemo/models/e-tron/audi-e-tron/my-2019/1920x1080_gallery/1920_1080_A_E-TRON_D_181047.jpg?output-format=webp&downsize=1459px:*",
+    "https://www.audi.dk/content/dam/nemo/models/e-tron/audi-e-tron/my-2019/1920x1080_gallery/1920_1080_Audi_e-tron_Additional_Reveal_RGB.jpg?output-format=webp&downsize=1459px:*"
+    ],
+    "extra": {
+    "Træk på krog": "1800 kg",
+    "Maksimum hastighed": "190 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (120kWh)"
+    }
+    },
+    {
+    "ID": 6920,
+    "API_id": "339bceb5-d176-4b84-8010-3d3794ed9892",
+    "title": "Model 3 Performance",
+    "initials": {
+    "brand": "Tesla",
+    "variant": "Performance",
+    "price": "484900",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "D"
+    },
+    "description": "Model 3 er designet med elektrisk drevet performance for øje, med dobbeltmotor, firehjulstræk, hurtig acceleration, lang rækkevidde og hurtig opladning.",
+    "main": {
+    "Rækkevide": {
+    "data": "567",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "75.0",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 192.000 km (70%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "3.3",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1847",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.tesla.com/sites/default/files/images/presskit/press00-model-x-rear-three-quarter-with-doors-open.jpg?2017"
+    ],
+    "extra": {
+    "Træk på krog": "907 kg",
+    "Maksimum hastighed": "261 Km / t",
+    "Opladning": "Type 2 (16kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (220kWh)"
+    }
+    },
+    {
+    "ID": 6921,
+    "API_id": "301e52a7-d75c-460f-8b1a-90fc25784040",
+    "title": "Model X Long Range Plus",
+    "initials": {
+    "brand": "Tesla",
+    "variant": "Long Range Plus",
+    "price": "689990",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Model X er konstrueret med effektivitet for øje, og med firehjulstræk som standard. Den har det største bagagerum i sin klasse og siddepladser til op til syv personer.",
+    "main": {
+    "Rækkevide": {
+    "data": "561",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "100.0",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 240.000 km (70%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "4.6",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2487",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.tesla.com/sites/default/files/images/presskit/press00-model-x-rear-three-quarter-with-doors-open.jpg?2017"
+    ],
+    "extra": {
+    "Træk på krog": "2500 kg",
+    "Maksimum hastighed": "250 Km / t",
+    "Opladning": "Type 2 (16kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (220kWh)"
+    }
+    },
+    {
+    "ID": 6922,
+    "API_id": "29f313fd-ce21-4005-baa3-bc13b1237f0a",
+    "title": "e-Niro Comfort",
+    "initials": {
+    "brand": "Kia",
+    "variant": "Comfort",
+    "price": "339999",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Med en banebrydende elbil som KIAs Niro EV er du fremtidssikret i en god og miljørigtig bil. Standard batteripakken er testet til 312 km på en fuld opladning, det bringer dig nemt og sikkert fra A-B uden de store problemer. Skal du på længere ture, kan du overveje at opgradere batteripakken til den større model, der sikrer dig op til 485 km på en enkelt opladning. Efter den nye WLTP-metode er Niro testet med et resultat på hele 615 km ved bykørsel.",
+    "main": {
+    "Rækkevide": {
+    "data": "455",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "64.0",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "7 års garanti (65%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "7.8",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1737",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.kia.com/content/dam/kwcms/kme/global/en/assets/vehicles/e-niro/discover/kia-niro-de-ev-my20-design-w.jpg",
+    "https://www.kia.com/content/dam/kwcms/kme/global/en/assets/vehicles/e-niro/discover/kia-niro-de-ev-my20-electrify-your-life-w.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "159 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (80kWh)"
+    }
+    },
+    {
+    "ID": 6923,
+    "API_id": "208d6783-28f6-4cab-9da0-b12f3f15dc6d",
+    "title": "Model Y Performance",
+    "initials": {
+    "brand": "Tesla",
+    "variant": "Performance",
+    "price": "0",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Model Y er en fuldt elektrisk SUV i mellemstørrelsen med plads til op til syv personer, dobbeltmotor med AWD og enestående beskyttelse.",
+    "main": {
+    "Rækkevide": {
+    "data": "480",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "75.0",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "3.7",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": null,
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.tesla.com/sites/default/files/images/presskit/blue-model-y-desktop.jpg"
+    ],
+    "extra": {
+    "Maksimum hastighed": "241 Km / t",
+    "Opladning": "Type 2 (16kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (220kWh)"
+    }
+    },
+    {
+    "ID": 6924,
+    "API_id": "2052c3fa-9d53-4a99-80b6-861353f6bef4",
+    "title": "E-NV200 Evalia",
+    "initials": {
+    "brand": "Nissan",
+    "variant": "Evalia",
+    "price": "337748",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "M"
+    },
+    "description": "Nissan e-NV200 er kompakt, alsidig og fuldt udstyret med Nissan Intelligent Mobility-teknologi, så den kan måle sig med din iværksætter-ånd. Køb denne 100 % elektriske varevogn fra Nissan udstyret med et 40 kWh-batteri for at spare penge på driftsomkostninger samtidig med, at du tager din forretning til nye højder.",
+    "main": {
+    "Rækkevide": {
+    "data": "200",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "40",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160 000 km (9 bar ud af 12)"
+    },
+    "0 - 100 Km/t": {
+    "data": "14",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1592",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/e-nv200-evalia/me0/version/versions_and_specs/grade_packshot_env200evalia_7_zitter_white.png.ximg.l_4_m.smart.png",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/2018_e-NV200_Full_PES/EVALIA/NISSAN_INTELLIGENT_MOBILITY/18tdieulhd-eNV200EVALIAHelios413.jpg.ximg.l_12_m.smart.jpg",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/2018_e-NV200_Full_PES/EVALIA/NISSAN_INTELLIGENT_MOBILITY/18tdieulhd-eNV200EVALIAHelios403.jpg.ximg.l_full_m.smart.jpg",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/2018_e-NV200_Full_PES/EVALIA/NISSAN_INTELLIGENT_MOBILITY/18tdieulhd-eNV200EVALIAHelios401.jpg.ximg.l_full_m.smart.jpg",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/2018_e-NV200_Full_PES/EVALIA/OVERVIEW/18tdieulhd-eNV200EVALIAHelios108.jpg.ximg.l_6_m.smart.jpg",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/2018_e-NV200_Full_PES/EVALIA/OVERVIEW/18tdieulhd-eNV200EVALIAHelios106.jpg.ximg.l_full_m.smart.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "123 Km / t",
+    "Opladning": "Type 2 (6.6kWh)",
+    "Opladning (hurtig)": "Chademo (50kWh)"
+    }
+    },
+    {
+    "ID": 6925,
+    "API_id": "1cbba1c4-2605-4d2e-9473-870237218ff5",
+    "title": "e-2008 SUV",
+    "initials": {
+    "brand": "Peugeot",
+    "variant": null,
+    "price": "279990",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Peugeot e-2008 har en 100 kW el-motor, der yder 136 hk, og har et drejningsmoment på 260 Nm. Batteriet har en høj kapacitet på 50 kWh, hvilket giver bilen en rækkevidde på 310 km (WLTP-standard). Bilen er både hurtig og nem at oplade. Den kan nemlig lades op til fra 0 til 80% på kun 30 minutter.",
+    "main": {
+    "Rækkevide": {
+    "data": "310",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "50",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "9",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1550",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://media.peugeot.dk/image/34/3/e-2008-fordele.642343.43.jpg",
+    "https://media.peugeot.dk/image/34/4/e-2008-design01.642344.43.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "150 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (100kWh)"
+    }
+    },
+    {
+    "ID": 6926,
+    "API_id": "1c2c8c8b-21a8-49e3-bce1-4399e83525b2",
+    "title": "Kona electric Long Range Performance",
+    "initials": {
+    "brand": "Hyundai",
+    "variant": "Long Range Performance",
+    "price": "294995",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Hyundai KONA electric giver dig både SUVens styrke og rummelighed, samtidig med at du kan nyde den elektriske teknologis overlegne kørekomfort. I en KONA electric får du en ubekymret og miljøvenlig kørsel. Hyundais nyudviklede lithiumbatterier opsamler bremseenergien, hver gang bilen motorbremser.",
+    "main": {
+    "Rækkevide": {
+    "data": "484",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "64",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km (70%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "7.9",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1685",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.hyundai.news/fileadmin/eu/press-kits/20180709_kona_electric/hyundai-kona-electric-july2018-29-exterior.jpg",
+    "https://www.hyundai.news/fileadmin/eu/press-kits/20180709_kona_electric/hyundai-kona-electric-july2018-28-exterior.jpg",
+    "https://www.hyundai.news/fileadmin/eu/press-kits/20180709_kona_electric/hyundai-kona-electric-july2018-19-exterior.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "300 kg",
+    "Maksimum hastighed": "167 Km / t",
+    "Opladning": "Type 2 (7.2kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (80kWh)"
+    }
+    },
+    {
+    "ID": 6927,
+    "API_id": "1a576e5f-908c-4c96-8e6f-6193c9972ee6",
+    "title": "e-tron Sportback 50 quattro",
+    "initials": {
+    "brand": "Audi",
+    "variant": "50 quattro",
+    "price": "599990",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Personligt frirum og elektrisk mobilitet er ikke modsætninger med den fuldelektriske SUV fra Audi. Uanset om du kører i byen eller er på landet, er Audi e-tron din trofaste ledsager. Den første fuldelektriske SUV er ikke bare sportslig, men også anvendelig i hverdagen. Dens to elmotorer sørger i samspil med det elektriske firehjulstræk for imponerende præstationer og adrætte køreegenskaber.",
+    "main": {
+    "Rækkevide": {
+    "data": "335",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "71",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "6.8",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2425",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.audi.dk/content/dam/nemo/models/e-tron/audi-e-tron-sportback/my-2020/1920x1080-feature-gallery/1920x1080-A_E-TRON_191032.jpg?output-format=webp&downsize=1920px:*",
+    "https://www.audi.dk/content/dam/nemo/models/e-tron/audi-e-tron-sportback/my-2020/1920x1080-gallery/1920x1080-1-A_E-TRON_191034.jpg?output-format=webp&downsize=1459px:*",
+    "https://www.audi.dk/dam/nemo/models/e-tron/audi-e-tron-sportback/my-2020/1920x1920-mtc-xl-1-1/2_1920x1080_A_E-TRON_191028.jpg?output-format=webp&downsize=1920px:*"
+    ],
+    "extra": {
+    "Træk på krog": "1800 kg",
+    "Maksimum hastighed": "190 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (120kWh)"
+    }
+    },
+    {
+    "ID": 6928,
+    "API_id": "174643f7-6797-4a04-831f-bbc139f8f5fb",
+    "title": "E-Jumpy 50 kWh",
+    "initials": {
+    "brand": "Citroen",
+    "variant": "50 kWh",
+    "price": "0",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": null
+    },
+    "description": "Oplev både effektiv, komfortabel og lydløs kørsel med den elektriske Jumpy. Motoren yder 100 kW (136 hk) og har et drejningsmoment på 260 Nm. Du kan vælge imellem 3 forskellige kørselsindstillinger: Normal, Eco eller Power, som alle med en maksimal hastighed på 130 km/t.",
+    "main": {
+    "Rækkevide": {
+    "data": "230",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "50",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": null,
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": null,
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://int-media.citroen.com/sites/default/files/styles/cropping_image/public/field/image/8/CL%2020.018.002_0.jpg?itok=cij11vH9",
+    "https://int-media.citroen.com/sites/default/files/styles/cropping_image/public/field/image/8/CL%2020.018.001_1.jpg?itok=mH9oWUpt"
+    ],
+    "extra": {
+    "Maksimum hastighed": "130 Km / t",
+    "Opladning": "Type 2 (7,4 or 11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (100kWh)"
+    }
+    },
+    {
+    "ID": 6929,
+    "API_id": "1684178f-8695-4948-99e8-41164d903cc9",
+    "title": "E-Jumpy 75 kWh",
+    "initials": {
+    "brand": "Citroen",
+    "variant": "75 kWh",
+    "price": "0",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": null
+    },
+    "description": "Oplev både effektiv, komfortabel og lydløs kørsel med den elektriske Jumpy. Motoren yder 100 kW (136 hk) og har et drejningsmoment på 260 Nm. Du kan vælge imellem 3 forskellige kørselsindstillinger: Normal, Eco eller Power, som alle med en maksimal hastighed på 130 km/t.",
+    "main": {
+    "Rækkevide": {
+    "data": "330",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "75",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": null,
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": null,
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://int-media.citroen.com/sites/default/files/styles/cropping_image/public/field/image/8/CL%2020.018.002_0.jpg?itok=cij11vH9",
+    "https://int-media.citroen.com/sites/default/files/styles/cropping_image/public/field/image/8/CL%2020.018.001_1.jpg?itok=mH9oWUpt"
+    ],
+    "extra": {
+    "Maksimum hastighed": "130 Km / t",
+    "Opladning": "Type 2 (7,4 or 11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (100kWh)"
+    }
+    },
+    {
+    "ID": 6930,
+    "API_id": "144e2fba-326d-4132-b061-fb0d43868b91",
+    "title": "i3s",
+    "initials": {
+    "brand": "BMW",
+    "variant": null,
+    "price": "309500",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "B"
+    },
+    "description": "BMW i3 er spækket med innovative teknologier, så den mestrer hverdagen helt suverænt. Den forbinder dig med omverdenen, leverer information og hjælper dig med det organisatoriske – og kører dig lige så langt, som du måtte ønske. Altid klar på en tur og nye veje.",
+    "main": {
+    "Rækkevide": {
+    "data": "310",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "42.2",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "6.9",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1345",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.bmw.dk/content/dam/bmw/common/all-models/i-series/i3/2020/highlights/bmw-i-series-i3-highlights-sp-xxl.jpg/_jcr_content/renditions/cq5dam.resized.img.1680.large.time1593079610376.jpg",
+    "https://www.bmw.dk/content/dam/bmw/marketNORDICS/bmw_dk/all-models/BMWiseries/i3/2017/BMW-i3-(120-Ah).jpg/_jcr_content/renditions/cq5dam.resized.img.585.low.time1581999519394.jpg",
+    "https://www.bmw.dk/content/dam/bmw/marketNORDICS/bmw_dk/all-models/BMWiseries/i3/2017/bmw-i-series-i3-Wallpaper-890x501-04.jpg/_jcr_content/renditions/cq5dam.resized.img.585.low.time1543912667009.jpg",
+    "https://www.bmw.dk/content/bmw/marketNORDICS/bmw_dk/da_DK/all-models/bmw-i/i3/2020/highlights/jcr:content/par/mosaicgallery/items/mosaicgalleryitem/image.transform/mosaic963/image.1581610692455.jpg",
+    "https://www.bmw.dk/content/bmw/marketNORDICS/bmw_dk/da_DK/all-models/bmw-i/i3/2020/highlights/jcr:content/par/mosaicgallery/items/mosaicgalleryitem_1779379763/image.transform/mosaic485/image.1581610692493.jpg",
+    "https://www.bmw.dk/content/dam/bmw/common/all-models/i-series/i3/2020/highlights/bmw-i-series-i3-highlights-content-nextpage-teaser-medium-01.jpg/_jcr_content/renditions/cq5dam.resized.img.585.low.time1593079619562.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "160 Km / t",
+    "Opladning": "Type 2 (3.7kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (50kWh)"
+    }
+    },
+    {
+    "ID": 6931,
+    "API_id": "11780d10-e402-4f08-8c76-3e2a0e45a606",
+    "title": "Polestar 2",
+    "initials": {
+    "brand": "Polestar",
+    "variant": null,
+    "price": "0",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "D"
+    },
+    "description": "Polestar er et firma, der bryder med traditionen. Vi føler, at en bil skal skille sig ud, fordi alle dele af den er grundigt gennemtænkt. Som et resultat har vi designet Polestar 2 til et niveau, hvor selv den mindste detalje har et formål. Fjernelse af det uvæsentlige for at efterlade ren, progressiv præstation.",
+    "main": {
+    "Rækkevide": {
+    "data": "470",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "78",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "4.7",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2198",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.polestar.com/bynder-assets/cft/final/6129afd5-4034-4fa7-ab7e-d0da5fb2e897/webimage-367A5870-DB07-40D0-A183D945BB4F4393.jpg",
+    "https://www.polestar.com/bynder-assets/cft/final/322e2fa9-18a6-4606-9b39-c1b21f5940ce/webimage-41185633-E449-408A-BC04A739946F8477.jpg",
+    "https://www.polestar.com/bynder-assets/cft/final/b981311e-d07d-4630-baa6-6aa975e64074/webimage-C3358D9B-F995-4214-A184E56840C280F1.jpg",
+    "https://www.polestar.com/bynder-assets/cft/final/66d82a48-74bb-403e-8c6b-4b2e06794115/webimage-FD00A9AF-A356-4986-BE7356FBE5F38D51.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "1500 kg",
+    "Maksimum hastighed": "205 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (150kWh)"
+    }
+    },
+    {
+    "ID": 6932,
+    "API_id": "1085ce52-0b06-478b-b8f0-63bd473bc52c",
+    "title": "Model X Performance",
+    "initials": {
+    "brand": "Tesla",
+    "variant": "Performance",
+    "price": "809990",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Model X er konstrueret med effektivitet for øje, og med firehjulstræk som standard. Den har det største bagagerum i sin klasse og siddepladser til op til syv personer.",
+    "main": {
+    "Rækkevide": {
+    "data": "548",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "100.0",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 240.000 km (70%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "2.8",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2487",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.tesla.com/sites/default/files/images/presskit/press00-model-x-rear-three-quarter-with-doors-open.jpg?2017"
+    ],
+    "extra": {
+    "Træk på krog": "2500 kg",
+    "Maksimum hastighed": "261 Km / t",
+    "Opladning": "Type 2 (16kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (220kWh)"
+    }
+    },
+    {
+    "ID": 6933,
+    "API_id": "0f4ccf72-2099-4219-9a3c-c99e6403f100",
+    "title": "e-tron Sportback 55 quattro",
+    "initials": {
+    "brand": "Audi",
+    "variant": "55 quattro",
+    "price": "749990",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Personligt frirum og elektrisk mobilitet er ikke modsætninger med den fuldelektriske SUV fra Audi. Uanset om du kører i byen eller er på landet, er Audi e-tron din trofaste ledsager. Den første fuldelektriske SUV er ikke bare sportslig, men også anvendelig i hverdagen. Dens to elmotorer sørger i samspil med det elektriske firehjulstræk for imponerende præstationer og adrætte køreegenskaber.",
+    "main": {
+    "Rækkevide": {
+    "data": "432",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "95",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "5.7",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2565",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.audi.dk/content/dam/nemo/models/e-tron/audi-e-tron-sportback/my-2020/1920x1080-feature-gallery/1920x1080-A_E-TRON_191032.jpg?output-format=webp&downsize=1920px:*",
+    "https://www.audi.dk/content/dam/nemo/models/e-tron/audi-e-tron-sportback/my-2020/1920x1080-gallery/1920x1080-1-A_E-TRON_191034.jpg?output-format=webp&downsize=1459px:*",
+    "https://www.audi.dk/dam/nemo/models/e-tron/audi-e-tron-sportback/my-2020/1920x1920-mtc-xl-1-1/2_1920x1080_A_E-TRON_191028.jpg?output-format=webp&downsize=1920px:*"
+    ],
+    "extra": {
+    "Træk på krog": "1800 kg",
+    "Maksimum hastighed": "200 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (150kWh)"
+    }
+    },
+    {
+    "ID": 6934,
+    "API_id": "0f3619f7-d5a1-464c-8477-baa14da78127",
+    "title": "Model 3 Long Range",
+    "initials": {
+    "brand": "Tesla",
+    "variant": "Long Range",
+    "price": "449900",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "D"
+    },
+    "description": "Model 3 er designet med elektrisk drevet performance for øje, med dobbeltmotor, firehjulstræk, hurtig acceleration, lang rækkevidde og hurtig opladning.",
+    "main": {
+    "Rækkevide": {
+    "data": "580",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "75.0",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 192.000 km (70%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "4.4",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1847",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.tesla.com/sites/default/files/images/presskit/press00-model-x-rear-three-quarter-with-doors-open.jpg?2017"
+    ],
+    "extra": {
+    "Træk på krog": "907 kg",
+    "Maksimum hastighed": "233 Km / t",
+    "Opladning": "Type 2 (16kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (220kWh)"
+    }
+    },
+    {
+    "ID": 6935,
+    "API_id": "0ddab636-4434-4220-8fb3-bba69b6dafbe",
+    "title": "ID.3 58 kWh",
+    "initials": {
+    "brand": "Volkswagen",
+    "variant": "58 kWh",
+    "price": "399995",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "C"
+    },
+    "description": "Med ID.3 begynder en ny, dynamisk æra i universet for elektrisk mobilitet. Elektrificerende præstationer møder banebrydende design og hverdagsanvendelige rækkevidder. For mennesker, der er på udkig efter forandringer. ",
+    "main": {
+    "Rækkevide": {
+    "data": "420",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "58",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km (70%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "7.3",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1805",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://uploads.volkswagen-newsroom.com/system/production/media/30094/images/6743d2586b63ace501fab7d1cb1872546bd35450/DB2019AU01084_overfull.jpg?1581003828",
+    "https://uploads.volkswagen-newsroom.com/system/production/media/30097/images/a53cc6809404244bc957403094cb931a6a475dd5/DB2019AU01087_overfull.jpg?1581003851",
+    "https://uploads.volkswagen-newsroom.com/system/production/media/30104/images/eecc50bb04c844d553a49bd68f7b1392fc6d2f70/DB2019AU01094_overfull.jpg?1581003902",
+    "https://uploads.volkswagen-newsroom.com/system/production/media/30107/images/df98fe61f8060efa8d6d815bb1ca29e9cb21e098/DB2019AU01097_overfull.jpg?1581003918"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "160 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (100kWh)"
+    }
+    },
+    {
+    "ID": 6936,
+    "API_id": "0c878fae-fcc9-47f7-b365-8a5312ea5287",
+    "title": "ZS EV Comfort",
+    "initials": {
+    "brand": "MG",
+    "variant": "Comfort",
+    "price": "219999",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "",
+    "main": {
+    "Rækkevide": {
+    "data": "263",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "44.5",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": " 8 år eller 150.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "8.2",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1491",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://mgmotors.dk/wp-content/uploads/2020/05/mg-4577_v3_web.jpg"
+    ],
+    "extra": {
+    "Maksimum hastighed": "140 Km / t",
+    "Opladning": "Type 2 (6.6kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (85kWh)"
+    }
+    },
+    {
+    "ID": 6938,
+    "API_id": "0a0dc30e-4012-47b3-802e-1619e5ad5ca3",
+    "title": "I-PACE EV400",
+    "initials": {
+    "brand": "Jaguar",
+    "variant": "EV400",
+    "price": "676000",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "I-PACE er først og fremmest en Jaguar – en bil med sublim køreglæde og køredynamik. Dens elmotorer og næsten perfekte vægtfordeling sikrer et moment på 696Nm og en smidighed som en sportsvogn.",
+    "main": {
+    "Rækkevide": {
+    "data": "470",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "90",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "4.8",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2133",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://media.jlrms.com/styles/hero_crop/s3/2020-06-18/image/2f7039af-21a1-42f4-b37e-34aebffa7b53/Jag_I-PACE_21MY_Dynamic_Eiger%20Grey_02.06.20_001.jpg?X8JKSoR71Tfen1isCEAe0nFqawdyTxVZ=&h=486a0350&itok=Lfp5L5Pc",
+    "https://media.jlrms.com/styles/hero_crop/s3/2020-06-18/image/017977a2-9b2d-45b2-9d06-2e90948ca6e6/Jag_I-PACE_21MY_Exterior_Charging_Indus%20Silver_02.06.20_002.jpg?PVp1c3iD3w.madeuMbt85l1TanYJTrCk&h=90206cdc&itok=zT9zcQGo",
+    "https://media.jlrms.com/styles/hero_crop/s3/alf/images/2019-06/9c4019a2-b611-40c9-b6c7-4177cf5caa79/jagipace19myfirsteditionncotyimage041218058.JPG?h.1eoVqi3PUeN.LZYC57hNM2f0rmfNDz&itok=HK50MK1c"
+    ],
+    "extra": {
+    "Maksimum hastighed": "200 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (100kWh)"
+    }
+    },
+    {
+    "ID": 6939,
+    "API_id": "091985e6-baf4-4d38-a607-e8d43593dbca",
+    "title": "Cooper SE",
+    "initials": {
+    "brand": "Mini",
+    "variant": null,
+    "price": "266500",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "C"
+    },
+    "description": "Den nye MINI Electric varetager ikke kun MINI-designet fra vores ikoniske 3-dørsmodel. Det er fyldt med årtier af gode ideer, udfordrende design, spørgsmålstegn og et ønske om at skabe kreative løsninger til det moderne byliv. Med den nye MINI Electric får du mere end en almindelig opladelig bil. Du får en bil, som er fyldt med et drive, der konstant bringer dig fremad.",
+    "main": {
+    "Rækkevide": {
+    "data": "234",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "32.6",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "7.3",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1365",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.mini.dk/media/7201/mini-e_highlight_multiimage_3_16x9_3.jpg?width=960&height=960&mode=min",
+    "https://www.mini.dk/media/7186/mini-e_highlight_multiimage_1_4x5_3.jpg?width=460&height=960&mode=min"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "150 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (50kWh)"
+    }
+    },
+    {
+    "ID": 6940,
+    "API_id": "0595f1a7-af16-457b-bba7-3779fa2ef8c6",
+    "title": "Model 3 Standard Range Plus",
+    "initials": {
+    "brand": "Tesla",
+    "variant": "Standard Range Plus",
+    "price": "369900",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "D"
+    },
+    "description": "Model 3 er designet med elektrisk drevet performance for øje, med dobbeltmotor, firehjulstræk, hurtig acceleration, lang rækkevidde og hurtig opladning.",
+    "main": {
+    "Rækkevide": {
+    "data": "430",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "54.0",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km (70%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "5.6",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1611",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.tesla.com/sites/default/files/images/presskit/press00-model-x-rear-three-quarter-with-doors-open.jpg?2017"
+    ],
+    "extra": {
+    "Træk på krog": "907 kg",
+    "Maksimum hastighed": "225 Km / t",
+    "Opladning": "Type 2 (16kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (220kWh)"
+    }
+    },
+    {
+    "ID": 6872,
+    "API_id": "fb23fa69-d73c-4ed2-9e56-892e6c06c0da",
+    "title": "Leaf N-Connecta",
+    "initials": {
+    "brand": "Nissan",
+    "variant": "N-Connecta",
+    "price": "303400",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "C"
+    },
+    "description": "Nissan LEAF er udstyret med de bedste intelligente køreteknologier, som e-pedal og ProPILOT. Nissan LEAF giver dig energi med spændingen ved dynamisk kørsel. Lave driftsomkostninger og nul udledning betyder, at elbilen Nissan LEAF er fornuftig både for din pengepung og planeten.",
+    "main": {
+    "Rækkevide": {
+    "data": "270",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "40",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160 000 km (9 bar ud af 12)"
+    },
+    "0 - 100 Km/t": {
+    "data": "7.9",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1995",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/new_leaf/ZE1A/fleet/leaf-fleet-rear-view.jpg.ximg.l_6_m.smart.jpg",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/2019_LEAF_Full_PES/Overview/RHD/2019-nissan-leaf-19tdieurhdpace106.jpg.ximg.l_6_m.smart.jpg",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nne/vehicles/new-leaf/879310a-F77-19TDIEULHD_LEAF_C&A_002_V0.jpg.ximg.l_6_m.smart.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "144 Km / t",
+    "Opladning": "Type 2 (6.6kWh)",
+    "Opladning (hurtig)": "Chademo (50kWh)"
+    }
+    },
+    {
+    "ID": 6873,
+    "API_id": "f679d5f3-dd9d-4450-aa9d-527fd013996f",
+    "title": "ID.3 45 kWh",
+    "initials": {
+    "brand": "Volkswagen",
+    "variant": "45 kWh",
+    "price": "324995",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "C"
+    },
+    "description": "Med ID.3 begynder en ny, dynamisk æra i universet for elektrisk mobilitet. Elektrificerende præstationer møder banebrydende design og hverdagsanvendelige rækkevidder. For mennesker, der er på udkig efter forandringer. ",
+    "main": {
+    "Rækkevide": {
+    "data": null,
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "45",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km (70%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "7.3",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": null,
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://uploads.volkswagen-newsroom.com/system/production/media/30094/images/6743d2586b63ace501fab7d1cb1872546bd35450/DB2019AU01084_overfull.jpg?1581003828",
+    "https://uploads.volkswagen-newsroom.com/system/production/media/30097/images/a53cc6809404244bc957403094cb931a6a475dd5/DB2019AU01087_overfull.jpg?1581003851",
+    "https://uploads.volkswagen-newsroom.com/system/production/media/30104/images/eecc50bb04c844d553a49bd68f7b1392fc6d2f70/DB2019AU01094_overfull.jpg?1581003902",
+    "https://uploads.volkswagen-newsroom.com/system/production/media/30107/images/df98fe61f8060efa8d6d815bb1ca29e9cb21e098/DB2019AU01097_overfull.jpg?1581003918"
+    ],
+    "extra": []
+    },
+    {
+    "ID": 6874,
+    "API_id": "f5481741-8b04-44f7-aefd-23a8c86b2c0f",
+    "title": "MX-30",
+    "initials": {
+    "brand": "Mazda",
+    "variant": null,
+    "price": "253000",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "",
+    "main": {
+    "Rækkevide": {
+    "data": "200",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "35.5",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": " 8 år eller 160.000 km (70%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "9.7",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1645",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://dk.cdn.mazda.media/240c87e9733145dfbf8f03aac530e400/dd42eb8fd90f43e08c06543221b118ff.jpg?495bfc"
+    ],
+    "extra": {
+    "Maksimum hastighed": "140 Km / t",
+    "Opladning (hurtig)": "CSS Type 2 (50kWh)"
+    }
+    },
+    {
+    "ID": 6875,
+    "API_id": "ee02393c-3a89-4b5c-9e88-59b609592698",
+    "title": "e-Soul Vision",
+    "initials": {
+    "brand": "Kia",
+    "variant": "Vision",
+    "price": "269999",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "KIA e-Soul er 100% elektrisk og overrasker med sin rummelighed, en rækkevidde på op til 452 km og den lader op til 80% på blot 57 min. Den smarte elbil har moderne linjer, friske farver og hightech-detaljer får den nye KIA e-Soul til at skille sig ud fra mængden. Specielle 17” aluminiumsfælge fuldender det elektriske look. Nyd roen med i en elbil og nyd rummeligheden.",
+    "main": {
+    "Rækkevide": {
+    "data": "276",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "39.2",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "7 års garanti (65%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "9.9",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1535",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.kia.com/content/dam/kwcms/kme/dk/da/assets/vehicles/eSoul/kia-e-soul-suv-my21-discover-w_WCA.jpg",
+    "https://www.kia.com/content/dam/kwcms/kme/global/en/assets/vehicles/e-Soul/discover/kia-e-soul-suv-my19-design-w.jpg",
+    "https://www.kia.com/content/dam/kwcms/kme/global/en/assets/vehicles/e-Soul/discover/kia-e-soul-suv-my21-iconic-suv.jpg",
+    "https://www.kia.com/content/dam/kwcms/kme/global/en/assets/vehicles/e-Soul/discover/kia-e-soul-suv-my21-the-chic-electric.jpg",
+    "https://www.kia.com/content/dam/kwcms/kme/global/en/assets/vehicles/e-Soul/discover/kia-e-soul-suv-my19-easy-charging.jpg",
+    "https://www.kia.com/content/dam/kwcms/kme/global/en/assets/vehicles/e-Soul/discover/kia-e-soul-suv-my19-utility-mode.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "157 Km / t",
+    "Opladning": "Type 2 (7.2kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (80kWh)"
+    }
+    },
+    {
+    "ID": 6876,
+    "API_id": "ecca6b74-7dc7-48cb-932e-803d9d28e42f",
+    "title": "Zoe",
+    "initials": {
+    "brand": "Renault",
+    "variant": null,
+    "price": "209900",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "B"
+    },
+    "description": "Med en rækkevidde på 385 km. er Renault ZOE en elbil, der giver tryghed i forhold til rækkevidden sammenlignet med tidligere udgaver af bilen. Renault ZOE's store rækkevidde gør, at den ikke bare er god til kørsel i byer, men også uden større problemer kan bruges som pendlerbil inden for landsdelene.",
+    "main": {
+    "Rækkevide": {
+    "data": "393",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "52",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "11.4",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1502",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/zoe/lr-b10-zoe/lr-b10-zoe-ph2/renault-zoe-neo-hero-zone-desktop-001.jpg.ximg.large.webp/1565336943214.webp",
+    "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/zoe/lr-b10-zoe/lr-b10-zoe-ph2/2560x1440-responsive-format/renault-zoe-neo-exterior-lifestyle-007.jpg.ximg.large.webp/1562747691629.webp",
+    "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/zoe/lr-b10-zoe/lr-b10-zoe-ph2/2560x1440-responsive-format/renault-zoe-neo-exterior-lifestyle-004.jpg.ximg.large.webp/1562084621151.webp",
+    "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/zoe/lr-b10-zoe/lr-b10-zoe-ph2/2560x1440-responsive-format/renault-zoe-neo-exterior-3d-002.jpg.ximg.small.webp/1562073285786.webp"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "135 Km / t",
+    "Opladning": "Type 2 (22kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (50kWh)"
+    }
+    },
+    {
+    "ID": 6877,
+    "API_id": "e7d10eee-01fa-469b-a82e-2b8d11b95923",
+    "title": "e-208",
+    "initials": {
+    "brand": "Peugeot",
+    "variant": null,
+    "price": "239990",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "B"
+    },
+    "description": "Den nye Peugeot e-208 giver dig ultimativ køreglæde takket være sin 100% elektriske motor. Oplev bilens lynhurtige acceleration, støjsvage kørsel og de lave driftsomkostninger. Du har frihed til at køre både korte og lange ture med det store batteri, og den hurtige opladning gør, at du hurtigt er videre på farten.",
+    "main": {
+    "Rækkevide": {
+    "data": "340",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "50",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "8.1",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1455",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://media.peugeot.dk/image/64/6/e-208-motorer-koereprogrammer.597646.63.jpg",
+    "https://media.peugeot.dk/image/65/2/e-208-opladning.597652.43.jpg",
+    "https://media.peugeot.dk/image/89/7/e-208-005.597897.17.jpg",
+    "https://media.peugeot.dk/image/89/1/e-208-002.597891.17.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "150 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (100kWh)"
+    }
+    },
+    {
+    "ID": 6878,
+    "API_id": "e313cdab-cd9c-4788-8cee-b5f7f87f9812",
+    "title": "Model Y Long Range",
+    "initials": {
+    "brand": "Tesla",
+    "variant": "Long Range",
+    "price": "0",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Model Y er en fuldt elektrisk SUV i mellemstørrelsen med plads til op til syv personer, dobbeltmotor med AWD og enestående beskyttelse.",
+    "main": {
+    "Rækkevide": {
+    "data": "505",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "75.0",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "5.1",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": null,
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.tesla.com/sites/default/files/images/presskit/blue-model-y-desktop.jpg"
+    ],
+    "extra": {
+    "Maksimum hastighed": "217 Km / t",
+    "Opladning": "Type 2 (16kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (220kWh)"
+    }
+    },
+    {
+    "ID": 6879,
+    "API_id": "df996896-b01b-400c-be64-9313964c9def",
+    "title": "i3",
+    "initials": {
+    "brand": "BMW",
+    "variant": null,
+    "price": "279500",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "B"
+    },
+    "description": "BMW i3 er spækket med innovative teknologier, så den mestrer hverdagen helt suverænt. Den forbinder dig med omverdenen, leverer information og hjælper dig med det organisatoriske – og kører dig lige så langt, som du måtte ønske. Altid klar på en tur og nye veje.",
+    "main": {
+    "Rækkevide": {
+    "data": "310",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "42.2",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "7.3",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1345",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.bmw.dk/content/dam/bmw/common/all-models/i-series/i3/2020/highlights/bmw-i-series-i3-highlights-sp-xxl.jpg/_jcr_content/renditions/cq5dam.resized.img.1680.large.time1593079610376.jpg",
+    "https://www.bmw.dk/content/dam/bmw/marketNORDICS/bmw_dk/all-models/BMWiseries/i3/2017/BMW-i3-(120-Ah).jpg/_jcr_content/renditions/cq5dam.resized.img.585.low.time1581999519394.jpg",
+    "https://www.bmw.dk/content/dam/bmw/marketNORDICS/bmw_dk/all-models/BMWiseries/i3/2017/bmw-i-series-i3-Wallpaper-890x501-04.jpg/_jcr_content/renditions/cq5dam.resized.img.585.low.time1543912667009.jpg",
+    "https://www.bmw.dk/content/bmw/marketNORDICS/bmw_dk/da_DK/all-models/bmw-i/i3/2020/highlights/jcr:content/par/mosaicgallery/items/mosaicgalleryitem/image.transform/mosaic963/image.1581610692455.jpg",
+    "https://www.bmw.dk/content/bmw/marketNORDICS/bmw_dk/da_DK/all-models/bmw-i/i3/2020/highlights/jcr:content/par/mosaicgallery/items/mosaicgalleryitem_1779379763/image.transform/mosaic485/image.1581610692493.jpg",
+    "https://www.bmw.dk/content/dam/bmw/common/all-models/i-series/i3/2020/highlights/bmw-i-series-i3-highlights-content-nextpage-teaser-medium-01.jpg/_jcr_content/renditions/cq5dam.resized.img.585.low.time1593079619562.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "150 Km / t",
+    "Opladning": "Type 2 (3.7kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (50kWh)"
+    }
+    },
+    {
+    "ID": 6881,
+    "API_id": "c9e55021-99b5-4365-8bcf-05f57fcbcfaa",
+    "title": "Taycan Turbo S",
+    "initials": {
+    "brand": "Porsche",
+    "variant": "Turbo S",
+    "price": "1786326",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "E"
+    },
+    "description": "Hjertet: elektrisk. Sjælen: Porsche. Taycan er klar til fremtiden med sit innovative helhedskoncept. Den er præget af de kendetegn, som altid har været afgørende for enhver Porsche: rendyrket emotionalitet og maksimal køreglæde.",
+    "main": {
+    "Rækkevide": {
+    "data": "416",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "93.4",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "2.8",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2370",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.porsche.dk/globalassets/modeller/taycan/turbo-s-teknik-stage.jpg",
+    "https://www.porsche.se/globalassets/modeller/taycan/taycan-turbo-s/front-i-staden.jpg",
+    "https://www.porsche.se/globalassets/modeller/taycan/taycan-turbo-s/i-kurva-vid-trad.jpg",
+    "https://www.porsche.se/globalassets/modeller/taycan/taycan-turbo-s/laddning.jpg"
+    ],
+    "extra": {
+    "Maksimum hastighed": "260 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (270kWh)"
+    }
+    },
+    {
+    "ID": 6882,
+    "API_id": "c856fbf7-0137-465d-aa0c-5faabda1095b",
+    "title": "ID.3 77 kWh",
+    "initials": {
+    "brand": "Volkswagen",
+    "variant": "77 kWh",
+    "price": "0",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "C"
+    },
+    "description": "Med ID.3 begynder en ny, dynamisk æra i universet for elektrisk mobilitet. Elektrificerende præstationer møder banebrydende design og hverdagsanvendelige rækkevidder. For mennesker, der er på udkig efter forandringer. ",
+    "main": {
+    "Rækkevide": {
+    "data": "540",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "77",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km (70%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "7.9",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1934",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://uploads.volkswagen-newsroom.com/system/production/media/30094/images/6743d2586b63ace501fab7d1cb1872546bd35450/DB2019AU01084_overfull.jpg?1581003828",
+    "https://uploads.volkswagen-newsroom.com/system/production/media/30097/images/a53cc6809404244bc957403094cb931a6a475dd5/DB2019AU01087_overfull.jpg?1581003851",
+    "https://uploads.volkswagen-newsroom.com/system/production/media/30104/images/eecc50bb04c844d553a49bd68f7b1392fc6d2f70/DB2019AU01094_overfull.jpg?1581003902",
+    "https://uploads.volkswagen-newsroom.com/system/production/media/30107/images/df98fe61f8060efa8d6d815bb1ca29e9cb21e098/DB2019AU01097_overfull.jpg?1581003918"
+    ],
+    "extra": {
+    "Maksimum hastighed": "160 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (125kWh)"
+    }
+    },
+    {
+    "ID": 6883,
+    "API_id": "c415f69d-acb5-41cf-93e4-da0e2290036b",
+    "title": "I-PACE EV320",
+    "initials": {
+    "brand": "Jaguar",
+    "variant": "EV320",
+    "price": "574900",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "I-PACE er først og fremmest en Jaguar – en bil med sublim køreglæde og køredynamik. Dens elmotorer og næsten perfekte vægtfordeling sikrer et moment på 696Nm og en smidighed som en sportsvogn.",
+    "main": {
+    "Rækkevide": {
+    "data": "470",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "90",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "6.4",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2133",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://media.jlrms.com/styles/hero_crop/s3/2020-06-18/image/2f7039af-21a1-42f4-b37e-34aebffa7b53/Jag_I-PACE_21MY_Dynamic_Eiger%20Grey_02.06.20_001.jpg?X8JKSoR71Tfen1isCEAe0nFqawdyTxVZ=&h=486a0350&itok=Lfp5L5Pc",
+    "https://media.jlrms.com/styles/hero_crop/s3/2020-06-18/image/017977a2-9b2d-45b2-9d06-2e90948ca6e6/Jag_I-PACE_21MY_Exterior_Charging_Indus%20Silver_02.06.20_002.jpg?PVp1c3iD3w.madeuMbt85l1TanYJTrCk&h=90206cdc&itok=zT9zcQGo",
+    "https://media.jlrms.com/styles/hero_crop/s3/alf/images/2019-06/9c4019a2-b611-40c9-b6c7-4177cf5caa79/jagipace19myfirsteditionncotyimage041218058.JPG?h.1eoVqi3PUeN.LZYC57hNM2f0rmfNDz&itok=HK50MK1c"
+    ],
+    "extra": {
+    "Maksimum hastighed": "180 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (100kWh)"
+    }
+    },
+    {
+    "ID": 6884,
+    "API_id": "c0577c3a-8e41-41a2-b864-204710cbff0a",
+    "title": "Taycan 4S",
+    "initials": {
+    "brand": "Porsche",
+    "variant": "4S",
+    "price": "972458",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "E"
+    },
+    "description": "Hjertet: elektrisk. Sjælen: Porsche. Taycan er klar til fremtiden med sit innovative helhedskoncept. Den er præget af de kendetegn, som altid har været afgørende for enhver Porsche: rendyrket emotionalitet og maksimal køreglæde.",
+    "main": {
+    "Rækkevide": {
+    "data": "408",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "79.2",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "4",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2140",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.porsche.se/globalassets/modeller/taycan/taycan-4s/header.jpg",
+    "https://www.porsche.se/globalassets/modeller/taycan/taycan-4s/vid-gult-hus.jpg"
+    ],
+    "extra": {
+    "Maksimum hastighed": "250 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (225kWh)"
+    }
+    },
+    {
+    "ID": 6887,
+    "API_id": "b5c83452-9822-4a65-a159-1e3fb51ed0ae",
+    "title": "Leaf e+ N-Connecta",
+    "initials": {
+    "brand": "Nissan",
+    "variant": "e+ N-Connecta",
+    "price": "344400",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "C"
+    },
+    "description": "Nissan LEAF er udstyret med de bedste intelligente køreteknologier, som e-pedal og ProPILOT. Nissan LEAF giver dig energi med spændingen ved dynamisk kørsel. Lave driftsomkostninger og nul udledning betyder, at elbilen Nissan LEAF er fornuftig både for din pengepung og planeten.",
+    "main": {
+    "Rækkevide": {
+    "data": "385",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "62",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160 000 km (9 bar ud af 12)"
+    },
+    "0 - 100 Km/t": {
+    "data": "6.9",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2140",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/new_leaf/ZE1A/fleet/leaf-fleet-rear-view.jpg.ximg.l_6_m.smart.jpg",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/2019_LEAF_Full_PES/Overview/RHD/2019-nissan-leaf-19tdieurhdpace106.jpg.ximg.l_6_m.smart.jpg",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nne/vehicles/new-leaf/879310a-F77-19TDIEULHD_LEAF_C&A_002_V0.jpg.ximg.l_6_m.smart.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "157 Km / t",
+    "Opladning": "Type 2 (6.6kWh)",
+    "Opladning (hurtig)": "Chademo (50kWh)"
+    }
+    },
+    {
+    "ID": 6888,
+    "API_id": "b59e2891-aeec-4438-b767-b7a384b3919b",
+    "title": "Mokka-e",
+    "initials": {
+    "brand": "Opel",
+    "variant": null,
+    "price": "0",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Mokka er den første model i Opels historie, der er elektrisk fra første introduktionsdag. Mokka-e er udstyret med en motor, der leverer 100kW (136 hk) og 260 Nm moment. Føreren kan vælge mellem tre køreprogrammer – Normal, Eco og Sport.",
+    "main": {
+    "Rækkevide": {
+    "data": "332",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "50",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "8.5",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1550",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://int-media.opel.com/sites/default/files/styles/cropping_image/public/field/image/98/01-Opel-Mokka-e-512164.jpg?itok=RNYVWfxC",
+    "https://int-media.opel.com/sites/default/files/styles/cropping_image/public/field/image/98/06-Opel-Mokka-e-512170.jpg?itok=ANm1Dcwl",
+    "https://int-media.opel.com/sites/default/files/styles/cropping_image/public/field/image/98/03-Opel-Mokka-e-512165.jpg?itok=5BjF8Tq1"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "150 Km / t",
+    "Opladning": "Type 2 (7,4 or 11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (100kWh)"
+    }
+    },
+    {
+    "ID": 6890,
+    "API_id": "af75a36f-9842-466d-9116-51a3f68e4b49",
+    "title": "Taycan 4S Performancebatteri Plus",
+    "initials": {
+    "brand": "Porsche",
+    "variant": "4S Performancebatteri Plus",
+    "price": "0",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "E"
+    },
+    "description": "Hjertet: elektrisk. Sjælen: Porsche. Taycan er klar til fremtiden med sit innovative helhedskoncept. Den er præget af de kendetegn, som altid har været afgørende for enhver Porsche: rendyrket emotionalitet og maksimal køreglæde.",
+    "main": {
+    "Rækkevide": {
+    "data": "464",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "93.4",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "4",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2220",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.porsche.se/globalassets/modeller/taycan/taycan-4s/header.jpg",
+    "https://www.porsche.se/globalassets/modeller/taycan/taycan-4s/vid-gult-hus.jpg"
+    ],
+    "extra": {
+    "Maksimum hastighed": "250 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (270kWh)"
+    }
+    },
+    {
+    "ID": 6891,
+    "API_id": "ad3f92e1-1004-41d9-a0dd-7b8bc28a3581",
+    "title": "Ariya 87 KWH",
+    "initials": {
+    "brand": "Nissan",
+    "variant": "87 KWH",
+    "price": "0",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Nissan Ariya har en lang rækkevidde, lynladning, topklasseudstyr, stor påhængsvægt og et enormt modelprogram. Nissan Ariya flytter grænserne med flere egenskaber, mere selvstændighed og mere stil. Dens design, som mest af alt kan beskrives futuristisk, får alle på gaden til at vende sig efter den af ren begejstring",
+    "main": {
+    "Rækkevide": {
+    "data": "500",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "90",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "7.6",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2200",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://wieck-nissanao-production.s3.amazonaws.com/photos/f9ab60c773b9d7a64727d4aba904e42d86b6456a/preview-928x522.jpg",
+    "https://wieck-nissanao-production.s3.amazonaws.com/photos/3b17c94c4a8d61a61f5e1a2d85cb999cb542def8/preview-928x522.jpg",
+    "https://wieck-nissanao-production.s3.amazonaws.com/photos/ddea3a0f8c88ec1636caab9d08cd7d69b4d4fbba/preview-928x522.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "700 kg",
+    "Maksimum hastighed": "200 Km / t",
+    "Opladning": "Type 2 (22kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (130kWh)"
+    }
+    },
+    {
+    "ID": 6892,
+    "API_id": "acfcf683-2046-452a-a55d-2ad3c510feb3",
+    "title": "e-Soul Comfort",
+    "initials": {
+    "brand": "Kia",
+    "variant": "Comfort",
+    "price": "324999",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "KIA e-Soul er 100% elektrisk og overrasker med sin rummelighed, en rækkevidde på op til 452 km og den lader op til 80% på blot 57 min. Den smarte elbil har moderne linjer, friske farver og hightech-detaljer får den nye KIA e-Soul til at skille sig ud fra mængden. Specielle 17” aluminiumsfælge fuldender det elektriske look. Nyd roen med i en elbil og nyd rummeligheden.",
+    "main": {
+    "Rækkevide": {
+    "data": "452",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "64.0",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "7 års garanti (65%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "7.9",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1682",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.kia.com/content/dam/kwcms/kme/dk/da/assets/vehicles/eSoul/kia-e-soul-suv-my21-discover-w_WCA.jpg",
+    "https://www.kia.com/content/dam/kwcms/kme/global/en/assets/vehicles/e-Soul/discover/kia-e-soul-suv-my19-design-w.jpg",
+    "https://www.kia.com/content/dam/kwcms/kme/global/en/assets/vehicles/e-Soul/discover/kia-e-soul-suv-my21-iconic-suv.jpg",
+    "https://www.kia.com/content/dam/kwcms/kme/global/en/assets/vehicles/e-Soul/discover/kia-e-soul-suv-my21-the-chic-electric.jpg",
+    "https://www.kia.com/content/dam/kwcms/kme/global/en/assets/vehicles/e-Soul/discover/kia-e-soul-suv-my19-easy-charging.jpg",
+    "https://www.kia.com/content/dam/kwcms/kme/global/en/assets/vehicles/e-Soul/discover/kia-e-soul-suv-my19-utility-mode.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "167 Km / t",
+    "Opladning": "Type 2 (7.2kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (80kWh)"
+    }
+    },
+    {
+    "ID": 6893,
+    "API_id": "a5c9582d-0ea9-4186-b6c1-efaa4a95e71d",
+    "title": "e-Niro Vision",
+    "initials": {
+    "brand": "Kia",
+    "variant": "Vision",
+    "price": "279999",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Med en banebrydende elbil som KIAs Niro EV er du fremtidssikret i en god og miljørigtig bil. Standard batteripakken er testet til 312 km på en fuld opladning, det bringer dig nemt og sikkert fra A-B uden de store problemer. Skal du på længere ture, kan du overveje at opgradere batteripakken til den større model, der sikrer dig op til 485 km på en enkelt opladning. Efter den nye WLTP-metode er Niro testet med et resultat på hele 615 km ved bykørsel.",
+    "main": {
+    "Rækkevide": {
+    "data": "289",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "39.2",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "7 års garanti (65%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "9.8",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1592",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.kia.com/content/dam/kwcms/kme/global/en/assets/vehicles/e-niro/discover/kia-niro-de-ev-my20-design-w.jpg",
+    "https://www.kia.com/content/dam/kwcms/kme/global/en/assets/vehicles/e-niro/discover/kia-niro-de-ev-my20-electrify-your-life-w.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "153 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (80kWh)"
+    }
+    },
+    {
+    "ID": 6894,
+    "API_id": "a40c7d32-a7d0-44fc-a2ee-32b7f0fd9ffb",
+    "title": "KANGOO Z.E.",
+    "initials": {
+    "brand": "Renault",
+    "variant": null,
+    "price": "231551",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "M"
+    },
+    "description": "KANGOO Z.E. er den første masseproducerede elektriske varevogn, med en rækkevidde på 200 km under faktiske brugsbetingelser.",
+    "main": {
+    "Rækkevide": {
+    "data": "230",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "33",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "22.4",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1630",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/kangoo-z-e/f61e-kangoo-z-e-/f61e-kangoo-z-e--ph2/2560x1440-responsive-format/renault-kangoo-ze-f61e-ph2-exterior-lifestyle-002.jpg.ximg.large.webp/1540476487472.webp",
+    "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/kangoo-z-e/f61e-kangoo-z-e-/f61e-kangoo-z-e--ph2/2560x1440-responsive-format/renault-kangoo-ze-f61e-ph2-exterior-lifestyle-001.jpg.ximg.large.webp/1540476486931.webp",
+    "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/kangoo-z-e/f61e-kangoo-z-e-/f61e-kangoo-z-e--ph2/2560x1440-responsive-format/renault-kangoo-ze-f61e-ph2-interior-lifestyle-008.jpg.ximg.small.webp/1540826275235.webp",
+    "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/kangoo-z-e/f61e-kangoo-z-e-/f61e-kangoo-z-e--ph2/2560x1440-responsive-format/renault-kangoo-ze-f61e-ph2-exterior-lifestyle-003.jpg.ximg.large.webp/1540476488016.webp",
+    "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/kangoo-z-e/f61e-kangoo-z-e-/f61e-kangoo-z-e--ph2/hero-zones/2560x1200-desktop/renault-kangoo-ze1-ph2-hero-zone-desktop-001.jpg.ximg.large.webp/1540894618054.webp"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "130 Km / t",
+    "Opladning": "Type 2 (7.4kWh)"
+    }
+    },
+    {
+    "ID": 6895,
+    "API_id": "a14265c6-2b41-4193-ad9a-4c59aba76d84",
+    "title": "Honda E",
+    "initials": {
+    "brand": "Honda",
+    "variant": null,
+    "price": "277100",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "B"
+    },
+    "description": "Honda e er en drøm gjort til virkelighed med sin unikke kombination af dynamisk ydeevne, raffineret komfort og futuristisk teknologi. Konstrueret til at give en exceptionel køreoplevelse.",
+    "main": {
+    "Rækkevide": {
+    "data": "222",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "35.5",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "8.3",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1595",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://hondanews.eu/image/cars/low/199738/1_1/5?v=2",
+    "https://hondanews.eu/image/cars/low/199752/1_1/5?v=2",
+    "https://hondanews.eu/image/cars/low/199750/1_1/5?v=2",
+    "https://hondanews.eu/image/cars/low/199749/1_1/5?v=2",
+    "https://hondanews.eu/image/cars/low/199746/1_1/5?v=2",
+    "https://hondanews.eu/image/cars/low/199734/1_1/5?v=2"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "145 Km / t",
+    "Opladning": "Type 2 (6.6kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (70kWh)"
+    }
+    },
+    {
+    "ID": 6896,
+    "API_id": "9f194649-f023-4374-98ba-7ca9bbfe8888",
+    "title": "ID.Buzz Cargo",
+    "initials": {
+    "brand": "Volkswagen",
+    "variant": "Cargo",
+    "price": "0",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": null
+    },
+    "description": "Det har begejstret mennesker over hele verden i over 70 år. Nu fører Volkswagen Erhvervsbiler denne fascination ind i tidsalderen for elektrisk mobilitet. Med konceptbilen ID. Buzz – en hyldest til det legendariske Rugbrød, men komplet nyudviklet og fremtidsorienteret.",
+    "main": {
+    "Rækkevide": {
+    "data": null,
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": null,
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": null,
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": null,
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://s7g10.scene7.com/is/image/volkswagenag/overview-teaser-id-buzz?Zml0PWNyb3AsMSZmbXQ9d2VicCZxbHQ9Nzkmd2lkPTEyODAmaGVpPTk2MCZhbGlnbj0wLjAwLDAuMDAmMGQ5OQ=="
+    ],
+    "extra": []
+    },
+    {
+    "ID": 6897,
+    "API_id": "995385d4-921e-4f90-8463-ba2becd314f8",
+    "title": "EQ fortwo Coupe",
+    "initials": {
+    "brand": "Smart",
+    "variant": "Coupe",
+    "price": "200000",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "A"
+    },
+    "description": "Smart EQ fortwo er den sjoveste elbil. Man bliver glad af at kigge på Smart EQ fortwo og glad for at køre i den.",
+    "main": {
+    "Rækkevide": {
+    "data": "132",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "18",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "11.5",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1085",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://mercedesbenzcph.dk/smart/files/2019/09/Smart-fourtwo-WEB.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "130 Km / t",
+    "Opladning": "Type 2 (4.6kWh)"
+    }
+    },
+    {
+    "ID": 6898,
+    "API_id": "971023a2-13cd-47c4-b30a-2f0d65dbb421",
+    "title": "Taycan Turbo",
+    "initials": {
+    "brand": "Porsche",
+    "variant": "Turbo",
+    "price": "1449991",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "E"
+    },
+    "description": "Hjertet: elektrisk. Sjælen: Porsche. Taycan er klar til fremtiden med sit innovative helhedskoncept. Den er præget af de kendetegn, som altid har været afgørende for enhver Porsche: rendyrket emotionalitet og maksimal køreglæde.",
+    "main": {
+    "Rækkevide": {
+    "data": "452",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "93.4",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "3.2",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2305",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.porsche.se/globalassets/modeller/taycan/taycan-turbo/man-lutad-mot-bil.jpg",
+    "https://www.porsche.se/globalassets/modeller/taycan/taycan-turbo/pa-uppfart.jpg",
+    "https://www.porsche.se/globalassets/modeller/taycan/taycan-turbo/instrumentpanel.jpg"
+    ],
+    "extra": {
+    "Maksimum hastighed": "260 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (270kWh)"
+    }
+    },
+    {
+    "ID": 6899,
+    "API_id": "8f278213-20b8-4928-a137-99af4daec2dc",
+    "title": "E-NV200 Combi",
+    "initials": {
+    "brand": "Nissan",
+    "variant": "Combi",
+    "price": "321763",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "M"
+    },
+    "description": "Nissan e-NV200 er kompakt, alsidig og fuldt udstyret med Nissan Intelligent Mobility-teknologi, så den kan måle sig med din iværksætter-ånd. Køb denne 100 % elektriske varevogn fra Nissan udstyret med et 40 kWh-batteri for at spare penge på driftsomkostninger samtidig med, at du tager din forretning til nye højder.",
+    "main": {
+    "Rækkevide": {
+    "data": "200",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "40",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160 000 km (9 bar ud af 12)"
+    },
+    "0 - 100 Km/t": {
+    "data": "14",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1592",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/2018_e-NV200_Full_PES/VAN/OVERVIEW/18tdieulhd-eNV200VANHelios112.jpg",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/2018_e-NV200_Full_PES/VAN/OVERVIEW/18tdieulhd-eNV200VANHelios106.jpg.ximg.l_8_m.smart.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "123 Km / t",
+    "Opladning": "Type 2 (6.6kWh)",
+    "Opladning (hurtig)": "Chademo (50kWh)"
+    }
+    },
+    {
+    "ID": 6900,
+    "API_id": "8d5b05cb-d120-4cdb-bc05-00cfef93f461",
+    "title": "MASTER Z.E.",
+    "initials": {
+    "brand": "Renault",
+    "variant": null,
+    "price": "378900",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "M"
+    },
+    "description": "MASTER Z.E. elektrificerer dine køreture. Den er især egnet til leveringer i byer og forstæder, det udtryksfulde design bidrager til din effektivitet. En rækkevidde på over 80 km, selv under de mest ekstreme forhold (tung last, bykørsel med hyppige stop, vintervejr).",
+    "main": {
+    "Rækkevide": {
+    "data": "119",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "33",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": null,
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1972",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/master-ze/code-model/f62-master-ze-ph2/2560x1440-responsive-format/renault-master-ze1-ph2-exterior-3d-005.jpg.ximg.small.webp/1566298645132.webp",
+    "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/master-ze/code-model/f62-master-ze-ph2/2560x1440-responsive-format/renault-master-ze1-ph2-exterior-3d-004.jpg.ximg.small.webp/1566298644719.webp",
+    "https://cdn.group.renault.com/ren/master/renault-new-cars/product-plans/master-ze/code-model/f62-master-ze-ph2/2560x1440-responsive-format/renault-master-ze1-ph2-exterior-lifestyle-001.jpg.ximg.large.webp/1566298647126.webp"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "100 Km / t",
+    "Opladning": "Type 2 (7.4kWh)"
+    }
+    },
+    {
+    "ID": 6901,
+    "API_id": "88f439ae-f008-4e92-b114-ea9952491a5a",
+    "title": "e-Crafter",
+    "initials": {
+    "brand": "Volkswagen",
+    "variant": null,
+    "price": "0",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": null
+    },
+    "description": "Den nye e-Crafter er den første fuldt elektriske bil fra Volkswagen Erhvervsbiler. Kassevognen er specielt udviklet til kurer-, ekspres- og pakketjeneste og kombinerer en nyttelast på op til 1,7 t1) med en rækkevidde på 173 km2) og perfekte køreegenskaber til stop-and-go-kørsel i bymidten.",
+    "main": {
+    "Rækkevide": {
+    "data": "173",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "35.8",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": null,
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": null,
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://uploads.volkswagen-newsroom.com/system/production/media/30405/images/afbcad9e64f75abd5abe0c4fc41bbfc04060a1be/DB2019NR00981_full.jpg?1581006130"
+    ],
+    "extra": []
+    },
+    {
+    "ID": 6902,
+    "API_id": "82c70ebc-969d-4400-bad1-2c76852815f1",
+    "title": "Model S Performance",
+    "initials": {
+    "brand": "Tesla",
+    "variant": "Performance",
+    "price": "740990",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "F"
+    },
+    "description": "Model S er toneangivende inden for branchen med hensyn til ydeevne og sikkerhed. Teslas 100 % elektriske drivlinje leverer uforlignelig ydeevne under alle vejrbetingelser — med dobbeltmotor og firehjulstræk, adaptiv luftaffjedring og Ludicrous-acceleration.",
+    "main": {
+    "Rækkevide": {
+    "data": "639",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "100.0",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 240.000 km (70%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "2.5",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2241",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.tesla.com/sites/default/files/images/presskit/model-s-001.jpg?2017"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "261 Km / t",
+    "Opladning": "Type 2 (16kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (220kWh)"
+    }
+    },
+    {
+    "ID": 6903,
+    "API_id": "7ea2c9b7-c4ef-4bf5-a124-83200f4dabaa",
+    "title": "e-tron 55 quattro",
+    "initials": {
+    "brand": "Audi",
+    "variant": "55 quattro",
+    "price": "749990",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Personligt frirum og elektrisk mobilitet er ikke modsætninger med den fuldelektriske SUV fra Audi. Uanset om du kører i byen eller er på landet, er Audi e-tron din trofaste ledsager. Den første fuldelektriske SUV er ikke bare sportslig, men også anvendelig i hverdagen. Dens to elmotorer sørger i samspil med det elektriske firehjulstræk for imponerende præstationer og adrætte køreegenskaber.",
+    "main": {
+    "Rækkevide": {
+    "data": "432",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "95",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "5.7",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2565",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.audi.dk/content/dam/nemo/models/e-tron/audi-e-tron/my-2019/1920x1080_gallery/1920_1080_A_E-TRON_181007.jpg?output-format=webp&downsize=1459px:*",
+    "https://www.audi.dk/content/dam/nemo/models/e-tron/audi-e-tron/my-2019/1920x1080_gallery/1920_1080_A_E-TRON_181014.jpg?output-format=webp&downsize=1459px:*",
+    "https://www.audi.dk/content/dam/nemo/models/e-tron/audi-e-tron/my-2019/1920x1080_gallery/1920_1080_A_E-TRON_181039.jpg?output-format=webp&downsize=1459px:*",
+    "https://www.audi.dk/content/dam/nemo/models/e-tron/audi-e-tron/my-2019/1920x1080_gallery/1920_1080_A_E-TRON_D_181047.jpg?output-format=webp&downsize=1459px:*",
+    "https://www.audi.dk/content/dam/nemo/models/e-tron/audi-e-tron/my-2019/1920x1080_gallery/1920_1080_Audi_e-tron_Additional_Reveal_RGB.jpg?output-format=webp&downsize=1459px:*"
+    ],
+    "extra": {
+    "Træk på krog": "1800 kg",
+    "Maksimum hastighed": "200 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (150kWh)"
+    }
+    },
+    {
+    "ID": 6904,
+    "API_id": "7c7217d7-b2dc-4609-ba37-d5471fea485d",
+    "title": "ZS EV Luxury",
+    "initials": {
+    "brand": "MG",
+    "variant": "Luxury",
+    "price": "249079",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "",
+    "main": {
+    "Rækkevide": {
+    "data": "263",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "44.5",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": " 8 år eller 150.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "8.2",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1532",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://mgmotors.dk/wp-content/uploads/2020/05/mg-4577_v3_web.jpg",
+    ""
+    ],
+    "extra": {
+    "Maksimum hastighed": "140 Km / t",
+    "Opladning": "Type 2 (6.6kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (85kWh)"
+    }
+    },
+    {
+    "ID": 6905,
+    "API_id": "7a8ba404-45cf-492e-9e33-c6c7184ba062",
+    "title": "Corsa-e",
+    "initials": {
+    "brand": "Opel",
+    "variant": null,
+    "price": "244990",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "B"
+    },
+    "description": "Corsa-e er Opels bud på en topmoderne, højteknologisk og 100% elektrisk by-bil. Med en imponerende rækkevidde på op til 330 km er den ideel til hverdagsbrug. Den nye Opel Corsa-e er det miljøvenlige valg.",
+    "main": {
+    "Rækkevide": {
+    "data": "337",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "50",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "8.1",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1530",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://int-media.opel.com/sites/default/files/styles/cropping_image/public/field/image/98/04-Opel-Corsa-e-511088.jpg?itok=ONx6n7JF",
+    "https://int-media.opel.com/sites/default/files/styles/cropping_image/public/field/image/98/10-Opel-Corsa-e-511158.jpg?itok=IBdIa4Ie"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "150 Km / t",
+    "Opladning": "Type 2 (7.4kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (100kWh)"
+    }
+    },
+    {
+    "ID": 6906,
+    "API_id": "73fbcf7c-a70c-4379-9643-081a37688733",
+    "title": "Kona electric Standard Range",
+    "initials": {
+    "brand": "Hyundai",
+    "variant": "Standard Range",
+    "price": "249995",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "Hyundai KONA electric giver dig både SUVens styrke og rummelighed, samtidig med at du kan nyde den elektriske teknologis overlegne kørekomfort. I en KONA electric får du en ubekymret og miljøvenlig kørsel. Hyundais nyudviklede lithiumbatterier opsamler bremseenergien, hver gang bilen motorbremser.",
+    "main": {
+    "Rækkevide": {
+    "data": "305",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "39",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160.000 km (70%)"
+    },
+    "0 - 100 Km/t": {
+    "data": "9.7",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1593",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.hyundai.news/fileadmin/eu/press-kits/20180709_kona_electric/hyundai-kona-electric-july2018-29-exterior.jpg",
+    "https://www.hyundai.news/fileadmin/eu/press-kits/20180709_kona_electric/hyundai-kona-electric-july2018-28-exterior.jpg",
+    "https://www.hyundai.news/fileadmin/eu/press-kits/20180709_kona_electric/hyundai-kona-electric-july2018-19-exterior.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "300 kg",
+    "Maksimum hastighed": "155 Km / t",
+    "Opladning": "Type 2 (7.2kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (50kWh)"
+    }
+    },
+    {
+    "ID": 6907,
+    "API_id": "6585c950-6e45-45df-b7d8-7031768cf882",
+    "title": "IONIQ electric",
+    "initials": {
+    "brand": "Hyundai",
+    "variant": null,
+    "price": "259995",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "C"
+    },
+    "description": "IONIQ electric er udstyret med et mere kraftfuldt batteri, hvilket giver dig en rækkevidde på 311 km. Elmotoren på 100 kW med drives nu af et opgraderet litium-ion-polymer-batteri på 38,3 kWh. Rækkevidde iht. WLTP.",
+    "main": {
+    "Rækkevide": {
+    "data": "311",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "38.3",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 200.000 km"
+    },
+    "0 - 100 Km/t": {
+    "data": "9.9",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1527",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.hyundai.news/fileadmin/eu/press-kits/20190827_ioniq_electric/hyundai-ioniq-electric-polar-white-06-1610.jpg",
+    "https://media.hyundai.se/media/2651/31_exterior_ioniq_ev_front_final_rgb.jpg?width=1220",
+    "https://www.hyundai.news/fileadmin/eu/press-kits/20190827_ioniq_electric/hyundai-ioniq-electric-polar-white-05-1610.jpg",
+    "https://www.hyundai.news/fileadmin/eu/press-kits/20190827_ioniq_electric/hyundai-ioniq-electric-polar-white-03-1610.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "165 Km / t",
+    "Opladning": "Type 2 (7.2kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (80kWh)"
+    }
+    },
+    {
+    "ID": 6908,
+    "API_id": "650a5bd1-8f34-4ce3-ae8c-70f5754a7c36",
+    "title": "iX3",
+    "initials": {
+    "brand": "BMW",
+    "variant": null,
+    "price": "0",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "J"
+    },
+    "description": "BMW iX3 er første model med BMW's femte generation af den elektriske drivlinje. Den effektive elmotor er placeret på bakakslen, og yder 286 hestekræfter og et drejningsmoment på 400 Nm, 0-100 km/t klares på 6,8 sekunder. På samme måde som elbilen BMW i3, kan også BMW iX3 køres med den effektive ”one pedal feeling”.",
+    "main": {
+    "Rækkevide": {
+    "data": "459",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "74",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "6.8",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "2185",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www.bmw.dk/content/bmw/marketNORDICS/bmw_dk/da_DK/all-models/x-series/iX3/2020/bmw-ix3-highlights/jcr:content/par/mosaicgallery_d34b/items/mosaicgalleryitem_dd/image.transform/mosaic485/image.1592927706883.jpg",
+    "https://www.bmw.dk/content/bmw/marketNORDICS/bmw_dk/da_DK/all-models/x-series/iX3/2020/bmw-ix3-highlights/jcr:content/par/mosaicgallery_d34b/items/mosaicgalleryitem_e5/image.transform/mosaic685/image.1592927706768.jpg",
+    "https://www.bmw.dk/content/bmw/marketNORDICS/bmw_dk/da_DK/all-models/x-series/iX3/2020/bmw-ix3-highlights/jcr:content/par/mosaicgallery_d34b/items/mosaicgalleryitem_97/image.transform/mosaic963/image.1592927706659.jpg",
+    "https://www.bmw.dk/content/bmw/marketNORDICS/bmw_dk/da_DK/all-models/x-series/iX3/2020/bmw-ix3-highlights/jcr:content/par/mosaicgallery_d34b/items/mosaicgalleryitem_2e/image.transform/mosaic485/image.1592927706725.jpg",
+    "https://www.bmw.dk/content/dam/bmw/common/all-models/x-series/ix3/2020/highlights/bmw-xseries-ix3-highlights-sd.jpg/_jcr_content/renditions/cq5dam.resized.img.1185.large.time1589287789174.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "750 kg",
+    "Maksimum hastighed": "180 Km / t",
+    "Opladning": "Type 2 (11kWh)",
+    "Opladning (hurtig)": "CSS Type 2 (150kWh)"
+    }
+    },
+    {
+    "ID": 6909,
+    "API_id": "621e7bbf-68cb-48b6-84e7-110a78fdad1d",
+    "title": "EQ forfour",
+    "initials": {
+    "brand": "Smart",
+    "variant": null,
+    "price": "210000",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "A"
+    },
+    "description": "Den nye Smart EQ forfour er en optimal 4-sæders model til bykørsel.",
+    "main": {
+    "Rækkevide": {
+    "data": "153",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "18",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": null
+    },
+    "0 - 100 Km/t": {
+    "data": "12.7",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1200",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://mercedesbenzcph.dk/smart/files/2019/09/Smart-forfour-WEB.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "130 Km / t",
+    "Opladning": "Type 2 (4.6kWh)"
+    }
+    },
+    {
+    "ID": 6910,
+    "API_id": "5cf0dd29-80ec-49d5-b5e2-1ecc794d502c",
+    "title": "Leaf Acenta",
+    "initials": {
+    "brand": "Nissan",
+    "variant": "Acenta",
+    "price": "291000",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "C"
+    },
+    "description": "Nissan LEAF er udstyret med de bedste intelligente køreteknologier, som e-pedal og ProPILOT. Nissan LEAF giver dig energi med spændingen ved dynamisk kørsel. Lave driftsomkostninger og nul udledning betyder, at elbilen Nissan LEAF er fornuftig både for din pengepung og planeten.",
+    "main": {
+    "Rækkevide": {
+    "data": "270",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "40",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160 000 km (9 bar ud af 12)"
+    },
+    "0 - 100 Km/t": {
+    "data": "7.9",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1995",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/new_leaf/ZE1A/fleet/leaf-fleet-rear-view.jpg.ximg.l_6_m.smart.jpg",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/2019_LEAF_Full_PES/Overview/RHD/2019-nissan-leaf-19tdieurhdpace106.jpg.ximg.l_6_m.smart.jpg",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nne/vehicles/new-leaf/879310a-F77-19TDIEULHD_LEAF_C&A_002_V0.jpg.ximg.l_6_m.smart.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "144 Km / t",
+    "Opladning": "Type 2 (6.6kWh)",
+    "Opladning (hurtig)": "Chademo (50kWh)"
+    }
+    },
+    {
+    "ID": 6911,
+    "API_id": "5b98bf52-2557-4339-aa81-6db08c3d261d",
+    "title": "Leaf Tekna",
+    "initials": {
+    "brand": "Nissan",
+    "variant": "Tekna",
+    "price": "316800",
+    "release_date": "0001-01-01T00:00:00",
+    "segment": "C"
+    },
+    "description": "Nissan LEAF er udstyret med de bedste intelligente køreteknologier, som e-pedal og ProPILOT. Nissan LEAF giver dig energi med spændingen ved dynamisk kørsel. Lave driftsomkostninger og nul udledning betyder, at elbilen Nissan LEAF er fornuftig både for din pengepung og planeten.",
+    "main": {
+    "Rækkevide": {
+    "data": "270",
+    "after": " WLTP"
+    },
+    "Batteri": {
+    "data": "40",
+    "after": " kWh"
+    },
+    "Garanti": {
+    "data": "8 år eller 160 000 km (9 bar ud af 12)"
+    },
+    "0 - 100 Km/t": {
+    "data": "7.9",
+    "after": " sek"
+    },
+    "Vægt": {
+    "data": "1995",
+    "after": " kg"
+    }
+    },
+    "images": [
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/new_leaf/ZE1A/fleet/leaf-fleet-rear-view.jpg.ximg.l_6_m.smart.jpg",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nissan_europe/vehicles/2019_LEAF_Full_PES/Overview/RHD/2019-nissan-leaf-19tdieurhdpace106.jpg.ximg.l_6_m.smart.jpg",
+    "https://www-europe.nissan-cdn.net/content/dam/Nissan/nne/vehicles/new-leaf/879310a-F77-19TDIEULHD_LEAF_C&A_002_V0.jpg.ximg.l_6_m.smart.jpg"
+    ],
+    "extra": {
+    "Træk på krog": "0 kg",
+    "Maksimum hastighed": "144 Km / t",
+    "Opladning": "Type 2 (6.6kWh)",
+    "Opladning (hurtig)": "Chademo (50kWh)"
+    }
+    }
+    ]
+    }

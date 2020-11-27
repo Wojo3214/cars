@@ -4,14 +4,9 @@ let _cars = [];
 
 //Getting data from JSON file
 async function loadData(){
-    let data = await fetch ('http://duckwise.net/assignments/frontend-internship/cars.json', {
-        mode: "no-cors",
-        headers: {
-          'Access-Control-Allow-Origin': '*',
-        }
-    }).then(res => res.json()).catch(error => console.log(error));
-    console.log(data);
-    _cars = data.data;
+    let jsonData = await fetch('cars.json').then(res => res.json()).catch(error => console.log(error));
+    console.log(jsonData);
+    _cars = jsonData.data;
 
     appendCars(_cars);
 }
@@ -75,7 +70,7 @@ function appendDetails(carId){
             <h3>Main features</h3>
             <div class="main-feature">
                 <p class="car-model">${mainFeatureData(specificCarDetails.main.Rækkevide, 'Range: ')}</p>
-                ${(specificCarDetails.main.Batteri.data) ? `<p class="car-model">Battery: ${specificCarDetails.main.Batteri.data} ${specificCarDetails.main.Batteri.after}</p>` : ''}
+                <p class="car-model">${mainFeatureData(specificCarDetails.main.Batteri, 'Battery: ')}</p>
                 <p class="car-model">${mainFeatureData(specificCarDetails.main.Garanti, 'Garanti: ')}</p>
                 <p class="car-model">${mainFeatureData(specificCarDetails.main["0 - 100 Km/t"], '0-100 km/h: ')}</p>
                 <p class="car-model">${mainFeatureData(specificCarDetails.main.Vægt, 'Weight: ')}</p>
