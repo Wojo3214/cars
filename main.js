@@ -46,7 +46,7 @@ function appendDetails(carId){
         }
     }
     console.log(specificCarDetails.title);
-    let mainFeatureData = (exactData, label) => (exactData.data) ? label + exactData.data + exactData.after : '' ;
+    let mainFeatureData = (exactData, label) => (exactData.data && exactData.after) ? label + exactData.data + exactData.after : (exactData.data) ? label + exactData.data : '' ;
     let initialsData = (exactData, label) => (exactData) ? label + exactData : '' ;
 
     let htmlDetailsTemplate = "";
